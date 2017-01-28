@@ -31,7 +31,7 @@
     "byline": "4.2.1",
     "cesium": "1.23.0",
     "fs-extra": "0.30.0",
-    "gltf-pipeline": "git://github.com/kring/gltf-pipeline.git#fullAmbient",
+    "gltf-pipeline": "kring/gltf-pipeline#faster",
     "yargs": "4.7.1"
   },
   "devDependencies": {
